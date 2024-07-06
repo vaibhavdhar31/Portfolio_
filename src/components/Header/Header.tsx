@@ -40,7 +40,7 @@ export function Header() {
           <NavHashLink smooth to="#contact" onClick={closeMenu}>
             Contact
           </NavHashLink>
-          <a href={"https://drive.google.com/file/d/1yyGOPhLltBE5yIoZODdCobYMl-c3dZr7/view?usp=sharing"} download className="button">
+          <a href={"https://drive.google.com/file/d/1zou6JlaQr_-3lCEUl4rpBVYI-0ISTInW/view?usp=sharing"} download className="button">
             Resume
           </a>
         </nav>
